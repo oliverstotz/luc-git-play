@@ -1,0 +1,5 @@
+#N canvas 670 222 450 300 10;
+#X obj 69 52 cnv 15 300 200 empty empty hi_! 60 90 1 100 -233017 -66577
+0;
+#X obj 69 188 cnv 10 300 10 empty empty empty 0 0 1 4 -233017 -66577
+0;
